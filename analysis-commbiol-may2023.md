@@ -7,7 +7,7 @@ editor_options:
 
 ## Setup
 
-```r
+```{r
 setwd("~/Dropbox/Projects/King_genome")
 
 library(ape)  # For phylo analysis, etc.
